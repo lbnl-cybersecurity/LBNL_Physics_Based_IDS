@@ -1,0 +1,17 @@
+Install instructions:
+//gpio library
+sudo apt-get install pyhton-rpi.gpio
+
+eventually
+sudo apt-get install python-dev
+
+sudo apt-get install python
+
+sudo apt-get install libpcap0.8
+sudo apt-get install libpcap0.8-dev
+sudo apt-get install python-pcapy
+
+instesting to check
+sudo apt-cacher search libpcap
+
+//all sripts accessing gpoi pins have to run with root permissions
